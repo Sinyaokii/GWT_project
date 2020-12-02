@@ -1,15 +1,16 @@
-# test_GWT_project
+# GWT_project
 <br>
 This is a single page application created in GWT(Google Web Toolkit).
 
 ## Discription
 *__Intro screen__*
-// add here intro screen image
+![alt text](https://github.com/Sinyaokii/GWT_project/edit/main/intro_screen.JPG?raw=true)
+
 <br>
 1. Clicking “enter” button takes to next screen, Sort.
 
 *__Sort screen__*
-// add here sort screen image
+![alt text](https://github.com/Sinyaokii/GWT_project/edit/main/sort_screen.JPG?)
 
 ##### Numbers buttons:
 2.	Show X random numbers (depends on data entered by user in the previous screen)
@@ -19,10 +20,10 @@ This is a single page application created in GWT(Google Web Toolkit).
 
 ##### Sort button:
 6.	Clicking the sort button will sort the presented numbers in a descending order
-// add here sorting gif
+![alt text](https://github.com/Sinyaokii/GWT_project/edit/main/first_sort.gif?)
 
 7.	Clicking the sort button again, will change it to increasing order
-// and here
+![alt text](https://github.com/Sinyaokii/GWT_project/edit/main/next_sort.gif?)
 ##### Reset button:
 Takes back to intro screen.
 ##### Clicking one of the numbers button:
