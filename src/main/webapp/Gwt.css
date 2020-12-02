@@ -1,0 +1,43 @@
+.blueButton {
+	background-image: initial !important;
+	width: 100px;
+	font-size: 16pt;
+	margin: 5px 5px 5px;
+	color: white;
+}
+
+.greenButton {
+	background-image: initial !important;
+	width: 100px;
+	font-size: 16pt;
+	color: white;
+}
+
+.numberField {
+	width: 90px;
+	height: 20px;
+	font-size: 10pt;
+	margin: 15px 0px 15px;
+}
+
+.gridStyle {
+	margin: 50px 0px 0px;
+}
+
+.labelField {
+	font-size: 16pt;
+	margin: 200px 0px 0px;
+}
+
+.errorLabelField {
+	border: 1px solid black;
+	margin: 20px 0px 0px;
+	font-size: 16pt;
+	color: #D8000C;
+	background-color: #FFBABA;
+}
+
+.style {
+	margin-left: auto;
+	margin-right: auto;
+}
